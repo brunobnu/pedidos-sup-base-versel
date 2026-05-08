@@ -69,3 +69,4 @@ Depois do deploy:
 
 Se o banco estiver vazio, a versao online nao cria clientes ficticios automaticamente.
 Atualizacao de ambiente Vercel.
+Atualizacao de ambiente Vercel.
