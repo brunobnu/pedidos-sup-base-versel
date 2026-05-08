@@ -68,5 +68,3 @@ Depois do deploy:
 5. Gere um insight IA para validar Gemini.
 
 Se o banco estiver vazio, a versao online nao cria clientes ficticios automaticamente.
-Atualizacao de ambiente Vercel.
-Atualizacao de ambiente Vercel.
