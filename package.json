@@ -1,0 +1,17 @@
+{
+  "name": "pedidos-por-cliente",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build-bundle.cjs",
+    "dev": "vite --host 0.0.0.0",
+    "vercel:dev": "vercel dev"
+  },
+  "dependencies": {
+    "@google/genai": "^1.0.1",
+    "@supabase/supabase-js": "^2.49.4"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
